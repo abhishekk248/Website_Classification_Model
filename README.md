@@ -1,2 +1,9 @@
-# SRISHTI-AIML22
-#Website Classification Model
+# Website Classification Model
+#SRISHTI_AIML22
+
+Created for CenturiThon-2022
+
+Run 
+``` streamlit run app.py```
+
+Give a valid url, it will detect the which category the website belongs to.
